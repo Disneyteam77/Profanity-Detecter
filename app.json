@@ -1,0 +1,49 @@
+{
+    "name": "Disney Team Telegram Profanity Detector",
+    "description": "Telegram bot to delete profanity messages.",
+    "logo": "https://telegra.ph/file/3eb94be9f7ac3f3c4728d.jpg",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "profanity-detector"
+    ],
+    "repository": "https://github.com/disneyteam76/TelegramProfanityDetectorBot",
+    "website": "Axk.me",
+    "success_url": "https://t.me/Animemusicarchive6",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}{
+    "name": "Disney Team Telegram Profanity Detector",
+    "description": "Telegram bot to delete profanity messages.",
+    "logo": "https://telegra.ph/file/3eb94be9f7ac3f3c4728d.jpg",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "profanity-detector"
+    ],
+    "repository": "https://github.com/disneyteam76/TelegramProfanityDetectorBot",
+    "website": "Axk.me",
+    "success_url": "https://t.me/Animemusicarchive6",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
